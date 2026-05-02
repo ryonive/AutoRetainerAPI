@@ -21,7 +21,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="ECommons" Version="3.1.0.30" />
+      <PackageReference Include="ECommons" Version="3.2.0.4-stg" />
     </ItemGroup>
     <ItemGroup>
         <Reference Include="Newtonsoft.Json">
